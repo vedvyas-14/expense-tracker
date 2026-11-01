@@ -2,6 +2,8 @@
 
 A React Native (Expo + TypeScript) expense tracker built with MVVM architecture. Transaction data is stored on-device with AsyncStorage.
 
+**Demo Video: https://drive.google.com/drive/folders/1D8ECH01-QLb_8JVOm-JTI01pnAnprGlx?usp=drive_link**
+
 ## Features
 - Add income and expense transactions (amount, category, date, description)
 - Total income, total expenses and current balance (balance turns red when negative)
